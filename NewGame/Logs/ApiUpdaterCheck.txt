@@ -1,0 +1,60 @@
+[api-updater (non-obsolete-error-filter)] 1/27/2021 11:45:37 PM : Starting G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1011.5011ms
+moved types parse time: 135ms
+candidates parse time : 7ms
+C# parse time         : 695ms
+candidates check time : 39ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 1/28/2021 12:28:21 AM : Starting G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 105.4825ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 166ms
+candidates check time : 27ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/28/2021 12:47:30 AM : Starting G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54.8775ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 312ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/28/2021 12:49:52 PM : Starting G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 645.7996ms
+moved types parse time: 247ms
+candidates parse time : 2ms
+C# parse time         : 1214ms
+candidates check time : 147ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 1/28/2021 12:50:42 PM : Starting G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 201.4512ms
+moved types parse time: 131ms
+candidates parse time : 4ms
+C# parse time         : 515ms
+candidates check time : 117ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 1/28/2021 12:51:22 PM : Starting G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 217.6409ms
+moved types parse time: 116ms
+candidates parse time : 2ms
+C# parse time         : 364ms
+candidates check time : 75ms
+console write time    : 1ms
+

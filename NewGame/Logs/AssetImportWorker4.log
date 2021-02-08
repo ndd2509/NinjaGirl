@@ -1,0 +1,189 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 12131 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+G:\MOB305-Game2D\Lab\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+G:/MOB305-Game2D/Lab/NewGame
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+58915
+Successfully changed project path to: G:/MOB305-Game2D/Lab/NewGame
+G:/MOB305-Game2D/Lab/NewGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/MOB305-Game2D/Lab/NewGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     6065 MB
+    Driver:   27.20.100.8187
+Initialize mono
+Mono path[0] = 'G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/MOB305-Game2D/Lab/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001339 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.010 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001048 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.465 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.37 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.9 MB.
+System memory in use after: 83.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2238.
+Total: 2.288100 ms (FindLiveObjects: 0.196500 ms CreateObjectMapping: 0.076300 ms MarkObjects: 1.901600 ms  DeleteObjects: 0.112700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/NinjaGirl/Enemy/standard_t2_small_baton.png
+  artifactKey: Guid(8dc853b9888bc9640841a08727a22f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Enemy/standard_t2_small_baton.png using Guid(8dc853b9888bc9640841a08727a22f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ab57591484c6e73e976cc98b521522') in 1.688978 seconds
+  Import took 1.818151 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1307.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.2 MB.
+System memory in use after: 52.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2493.
+Total: 3.228800 ms (FindLiveObjects: 0.253800 ms CreateObjectMapping: 0.079700 ms MarkObjects: 2.799100 ms  DeleteObjects: 0.094400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 605.028359 seconds.
+  path: Assets/NinjaGirl/Enemy/standard_t2_small_baton.png
+  artifactKey: Guid(8dc853b9888bc9640841a08727a22f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Enemy/standard_t2_small_baton.png using Guid(8dc853b9888bc9640841a08727a22f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85387945608f2a2ec0652b70146c054') in 0.340898 seconds
+  Import took 1.356432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.386145 seconds.
+  path: Assets/NinjaGirl/Enemy/standard_t2_small_baton.png
+  artifactKey: Guid(8dc853b9888bc9640841a08727a22f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Enemy/standard_t2_small_baton.png using Guid(8dc853b9888bc9640841a08727a22f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295291084d9817c5c5e5554186738399') in 0.323807 seconds
+  Import took 1.028162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.426037 seconds.
+  path: Assets/NinjaGirl/Enemy/standard_t2_small_baton.png
+  artifactKey: Guid(8dc853b9888bc9640841a08727a22f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Enemy/standard_t2_small_baton.png using Guid(8dc853b9888bc9640841a08727a22f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd258b647e741d309eb93a981604a10') in 0.342061 seconds
+  Import took 0.723158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 321.742219 seconds.
+  path: Assets/NinjaGirl/Animation/roll_enemy.anim
+  artifactKey: Guid(6b3213d2196c5224b98e8173ba8df5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Animation/roll_enemy.anim using Guid(6b3213d2196c5224b98e8173ba8df5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249475d2a09c8db18a73f78569eefe6a') in 0.013522 seconds
+  Import took 0.037207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160987 seconds.
+  path: Assets/NinjaGirl/Animation/roll_enemy.anim
+  artifactKey: Guid(6b3213d2196c5224b98e8173ba8df5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Animation/roll_enemy.anim using Guid(6b3213d2196c5224b98e8173ba8df5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249475d2a09c8db18a73f78569eefe6a') in 0.001837 seconds
+  Import took 0.088796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 737.246107 seconds.
+  path: Assets/NinjaGirl/Animation/idle_enemy.anim
+  artifactKey: Guid(c4077968e86d89442ac52138da0a01d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Animation/idle_enemy.anim using Guid(c4077968e86d89442ac52138da0a01d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '649f682d5b70c34ae523d06b17ef893f') in 0.001954 seconds
+  Import took 0.350561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 635.905226 seconds.
+  path: Assets/NinjaGirl/Player/Kunai.png
+  artifactKey: Guid(5df17b6c4ff37334fbc9f3417fc5e914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Player/Kunai.png using Guid(5df17b6c4ff37334fbc9f3417fc5e914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f8a1df9fe0072adf49dc79d1a703bbc') in 0.009735 seconds
+  Import took 0.022135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.732000 seconds.
+  path: Assets/NinjaGirl/Player/Kunai.png
+  artifactKey: Guid(5df17b6c4ff37334fbc9f3417fc5e914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Player/Kunai.png using Guid(5df17b6c4ff37334fbc9f3417fc5e914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c452b58644912081782869bd8f71596') in 0.006694 seconds
+  Import took 0.072777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001824 seconds.
+  path: Assets/NinjaGirl/Player/Kunai.png
+  artifactKey: Guid(5df17b6c4ff37334fbc9f3417fc5e914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NinjaGirl/Player/Kunai.png using Guid(5df17b6c4ff37334fbc9f3417fc5e914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c452b58644912081782869bd8f71596') in 0.009636 seconds
+  Import took 0.014229 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2498.
+Total: 2.580800 ms (FindLiveObjects: 0.291700 ms CreateObjectMapping: 0.098300 ms MarkObjects: 2.083100 ms  DeleteObjects: 0.106100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
